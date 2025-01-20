@@ -1,7 +1,7 @@
 ![logo](https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahmoodul Haque H</h1>
 <h3 align="center">Aspiring Full-Stack Developer skilled in front-end technologies combined with back-end expertise in Java and SQL. Proficient in building responsive, user-centric web applications with a focus on UI/UX design. Eager to contribute to dynamic projects and excel in a collaborative team environment.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1BQgHg9fGzPWgOonx1nJUg&ust=1737474655742000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCIgdDThIsDFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400" src="https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/gif.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodulhaque" /> </p>
 
 - 💬 Ask me about **HTML,CSS,Javascript,Java,SQL**
