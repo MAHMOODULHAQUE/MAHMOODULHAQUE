@@ -1,4 +1,4 @@
-![logo](https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
+![logo](https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahmoodul Haque H</h1>
 <h3 align="center">Aspiring Full-Stack Developer skilled in front-end technologies combined with back-end expertise in Java and SQL. Proficient in building responsive, user-centric web applications with a focus on UI/UX design. Eager to contribute to dynamic projects and excel in a collaborative team environment.</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/gif1.gif"
