@@ -3,7 +3,10 @@
 <h3 align="center">Aspiring Full-Stack Developer skilled in front-end technologies combined with back-end expertise in Java and SQL. Proficient in building responsive, user-centric web applications with a focus on UI/UX design.</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/gif1.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodulhaque" /> </p>
-
+ 🚀 About Me
+  🌐 Full-Stack Developer | Frontend Enthusiast | Backend Explorer
+  🎓 Passionate about building scalable and interactive web applications.
+  🌱 Currently learning: Advanced React, TypeScript, and Cloud Deployment.
 - 💬 Ask me about **HTML,CSS,Javascript,Java,SQL**
 
 - 📫 How to reach me **mahmoodulhaque59@gmail.com**
