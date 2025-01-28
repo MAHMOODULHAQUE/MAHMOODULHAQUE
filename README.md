@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoodulhaque&show_icons=true&locale=en" alt="mahmoodulhaque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
-![Animated ECG Graph](https://media.giphy.com/media/3ohhwE3MGBbh0e2Yic/giphy.gif)
+
