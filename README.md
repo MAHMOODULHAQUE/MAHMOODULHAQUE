@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)<br><hr>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
