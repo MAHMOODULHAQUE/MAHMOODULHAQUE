@@ -8,7 +8,7 @@
 <p>🎓 Passionate about building scalable and interactive web applications.</p>
 <p>🌱 Currently learning: Advanced React, TypeScript, and Cloud Deployment.</p>
 <p>💬 Ask me about **HTML,CSS,Javascript,Java,SQL**</p>
-<p>📫 How to reach me **mahmoodulhaque59@gmail.com**</p> 
+📫 How to reach me **mahmoodulhaque59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
