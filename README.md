@@ -21,28 +21,28 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)<hr>
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 <h3 align="left">Frameworks:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)<hr>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 <h3 align="left">Database:</h3>
 
-![SQL++](https://img.shields.io/badge/-SQL++-4479A1?logo=mysql&logoColor=white&style=flat)<hr>
+![SQL++](https://img.shields.io/badge/-SQL++-4479A1?logo=mysql&logoColor=white&style=flat)
 
 <h3 align="left">Developement Tools:</h3>
 
 ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Brackets](https://img.shields.io/badge/-Brackets-F0F0F0?logo=brackets&logoColor=black&style=flat)<hr>
+![Brackets](https://img.shields.io/badge/-Brackets-F0F0F0?logo=brackets&logoColor=black&style=flat)
 
 <h3 align="left">AI Tools:</h3>
 
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=github-sponsors&logoColor=white&style=flat)
-![Codeium](https://img.shields.io/badge/-Codeium-0A0A0A?logo=codeium&logoColor=white&style=flat)<hr>
+![Codeium](https://img.shields.io/badge/-Codeium-0A0A0A?logo=codeium&logoColor=white&style=flat)
 
 <h3 align="left">Other Tools:</h3>
 
