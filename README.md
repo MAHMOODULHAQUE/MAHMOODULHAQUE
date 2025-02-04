@@ -34,7 +34,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)<hr>
 
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks & library:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
